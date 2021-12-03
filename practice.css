@@ -27,5 +27,84 @@ body{
     width: 280px;
     left: 0;
     background-color: rgb(58, 212, 117);
+    text-align: center;
+    padding: 10px;
+ 
+   
 }
 
+#menu ul li{
+    list-style-type: none;
+    color: aliceblue;
+}
+
+#menu #li1{
+    font-size: 24px;
+    text-align: center;
+    margin: 30px;
+    font-weight: bold;
+}
+
+#menu #li3{
+    font-size: 14px;
+    width: 250px;
+    margin: auto;
+    margin-top: 18px;
+}
+
+#menu a{
+    color: white;
+}
+
+
+.su2{
+    display: block ruby;
+    margin:40px 0px;
+    margin-right: 5px;
+}
+
+.su2 a{
+    padding-left: 5px;
+
+}
+
+#li6 li{
+    
+    display: block;
+    height: 35px;
+}
+
+#li6 a{ 
+    text-decoration: none;
+    color: white;
+}
+
+#li6{
+    
+    border-top: 1px solid white;
+    text-decoration: none;
+    padding-top: 20px;
+    font-weight: bold;
+
+}
+#li7{
+    
+    font-weight: bold;
+    display: block;
+    background-color: rgba(43, 58, 12, 0.233);
+    border-radius: 5px;
+    width: 120px;
+    height: 42px;
+    line-height: 42px;
+    margin:auto;
+  
+}
+
+#li7 a{
+    text-decoration: none;
+    color:white
+}
+
+#header{
+    margin: 50px 100px 50px 100px;
+}
